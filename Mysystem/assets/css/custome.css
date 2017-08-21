@@ -1,0 +1,71 @@
+h3{
+    color: #000;
+}
+h4{
+    text-align: right;
+}
+
+.well.A{
+    padding: 0px;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+th{
+    color: #000;
+}
+
+td{
+    color: #000;
+}
+
+.text-warning{
+    font-size: 22px;
+}
+.text-danger{
+    font-size: 22px;
+}
+.text-info{
+    font-size: 22px;
+}
+
+.w{
+    text-align: center;
+}
+
+.x{
+    margin-top: -11%;
+
+}
+
+.table-responsive{
+    margin-bottom: -20px;
+}
+
+.table-hover>tbody>tr:hover {
+    background-color: #b9b4b4;
+}
+
+.l{
+    text-align: left;
+    color:crimson;
+}
+
